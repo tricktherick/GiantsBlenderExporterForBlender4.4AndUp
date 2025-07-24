@@ -9,6 +9,9 @@ https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#rd-par
 Change log
 ----------
 
+10.0.0 (5.6.2025)
+- Edited to work in Blender 4.4 and Up by DTAPGAMING with AI help - only the edits were done by me the main source code and all edits are still property of GIANTS SOFTWARE, I only did this as a courtesy for the users of blender so they may upgrade from blender 4.3 and use the new Vulken settings for a better experiance when using blender.
+
 10.0.0 (21.11.2024)
 ------------------
 -Initial version for Farming Simulator 25
